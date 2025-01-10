@@ -1,0 +1,72 @@
+/* BigCats.css */
+.big-cats {
+  text-align: center;
+  padding: 20px;
+}
+
+.big-cats ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.single-cat {
+  display: inline-block;
+  width: 250px;
+  margin: 20px;
+  text-align: center;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.cat-image {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+h1 {
+  font-family: "Arial", sans-serif;
+  color: #333;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: #555;
+}
+
+p {
+  color: #777;
+}
+/* BigCats.css */
+.add-cat-form {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.add-cat-form input {
+  width: 100%;
+  padding: 8px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.add-cat-form button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}
+
+.add-cat-form button:hover {
+  background-color: #45a049;
+}
+
+.add-cat-form h2 {
+  margin-bottom: 20px;
+}
